@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/025/366/622/small/laptop-with-blank-screen-isolate-on-transparent-background-ai-generated-png.png",
+    "waterConsumption": "0L",
+    "carbonEmission": "50kg CO₂",
+    "greenhouseEffect": "Medium",
+    "electricityConsumption": "100W",
+    "description": "Laptops are essential for work, study, and entertainment. They consume relatively low energy, typically around 50-100W per hour. Unlike desktop computers, laptops are designed to be more energy-efficient, making them an environmentally friendly option for computing needs. With improved battery technology, modern laptops also support energy-saving modes that help reduce overall electricity consumption."
+  },
+  {
+    "id": 2,
+    "name": "TV",
+    "image": "https://www.sony-asia.com/image/ccbe548efa94995a9c034d96a4a6acbb?fmt=pjpeg&bgcolor=FFFFFF&bgc=FFFFFF&wid=2515&hei=1320",
+    "waterConsumption": "0L",
+    "carbonEmission": "50kg CO₂",
+    "greenhouseEffect": "Medium",
+    "electricityConsumption": "100W",
+    "description": "Televisions have evolved significantly, with LED and OLED models offering energy efficiency. Consuming around 100W per hour, modern TVs come with power-saving features like auto-brightness adjustment and sleep modes. Larger screens and higher resolutions, such as 4K and 8K, tend to use more power. Energy Star-rated models can help lower electricity consumption."
+  },
+  {
+    "id": 3,
+    "name": "Bathtub",
+    "image": "https://images.woodbridgebath.com/Data/upload/20220329/content/6242c498d9ac7.jpg",
+    "waterConsumption": "200L",
+    "carbonEmission": "50kg CO₂",
+    "greenhouseEffect": "Medium",
+    "electricityConsumption": "100W",
+    "description": "Bathtubs are a luxurious way to relax, but they are high in water consumption. A single full bath can use up to 200 liters of water, making it less water-efficient than a shower. Heated bathtubs require additional electricity to maintain warm water, increasing overall energy usage. Water-saving tubs are available for more eco-friendly bathing options."
+  },
+  {
+    "id": 4,
+    "name": "Smartphone",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/011/911/171/small_2x/smartphone-mockup-hi-res-rendering-for-ui-ix-mockup-with-transparent-background-png.png",
+    "waterConsumption": "0L",
+    "carbonEmission": "20kg CO₂",
+    "greenhouseEffect": "Low",
+    "electricityConsumption": "20W",
+    "description": "Smartphones are indispensable in modern life. Their energy consumption is low, averaging 20W per hour when charging. Most smartphones use lithium-ion batteries, which contribute to e-waste. Energy-efficient chargers and power-saving features help reduce carbon footprints. Advancements in battery life and fast-charging technology are making them even more sustainable."
+  },
+  {
+    "id": 5,
+    "name": "Washing Machine",
+    "image": "https://png.pngtree.com/png-vector/20240319/ourlarge/pngtree-red-washing-machine-png-image_12016783.png",
+    "waterConsumption": "500L per month",
+    "carbonEmission": "80kg CO₂",
+    "greenhouseEffect": "High",
+    "electricityConsumption": "500W",
+    "description": "Washing machines are essential for laundry care, consuming around 500W per load. Modern machines have water-saving and energy-efficient modes. Front-loaders use less water than top-loaders. Using cold water cycles and eco-friendly detergents can reduce environmental impact. Advanced models integrate AI to optimize water and detergent use."
+  },
+  {
+    "id": 6,
+    "name": "Air Conditioner",
+    "image": "https://www.myg.in/images/blog/9/Benefits_of_AC.jpg",
+    "waterConsumption": "50L",
+    "carbonEmission": "100kg CO₂",
+    "greenhouseEffect": "High",
+    "electricityConsumption": "2000W",
+    "description": "Air conditioners provide comfort but consume significant electricity, averaging 900W to 3500W per hour. Regular maintenance, energy-efficient models, and smart thermostats can help optimize power usage. Inverter ACs use less energy than conventional models, reducing carbon footprint."
+  },
+  {
+    "id": 7,
+    "name": "Fan",
+    "image": "https://orpatgroup.com/wp-content/uploads/2022/12/brown-fan-1.jpg",
+    "waterConsumption": "0L",
+    "carbonEmission": "5kg CO₂",
+    "greenhouseEffect": "Low",
+    "electricityConsumption": "60W",
+    "description": "Fans are one of the most energy-efficient cooling solutions, using around 60W per hour. They help improve air circulation and reduce the need for air conditioning. Ceiling and pedestal fans have minimal environmental impact compared to cooling appliances like air conditioners."
+  },
+  {
+    "id": 8,
+    "name": "Kitchen Stove",
+    "image": "https://m.media-amazon.com/images/I/71CuqWukldL.jpg",
+    "waterConsumption": "0L",
+    "carbonEmission": "30kg CO₂",
+    "greenhouseEffect": "Medium",
+    "electricityConsumption": "1500W",
+    "description": "Kitchen stoves vary in energy use, with gas stoves having a lower carbon footprint than electric models. Induction cooktops are more energy-efficient, converting nearly 90% of electricity into heat. Proper cookware selection can also improve efficiency and reduce power consumption."
+  },
+  {
+    "id": 9,
+    "name": "Refrigerator",
+    "image": "https://i.pinimg.com/736x/1d/ca/cb/1dcacb7927265dd82ab26c3a7d853203.jpg",
+    "waterConsumption": "0L",
+    "carbonEmission": "90kg CO₂",
+    "greenhouseEffect": "High",
+    "electricityConsumption": "150W",
+    "description": "Refrigerators run continuously and consume around 100-150W per hour. Energy-efficient models with inverter compressors help reduce power consumption. Proper maintenance, such as keeping coils clean and setting the right temperature, can also improve efficiency."
+  },
+  {
+    "id": 10,
+    "name": "Microwave Oven",
+    "image": "https://www.myg.in/images/thumbnails/300/300/detailed/74/61YkLy_qFxL._SX679_-removebg-preview.png.png",
+    "waterConsumption": "0L",
+    "carbonEmission": "40kg CO₂",
+    "greenhouseEffect": "Medium",
+    "electricityConsumption": "1200W",
+    "description": "Microwave ovens are energy-efficient cooking appliances that use electromagnetic waves to heat food. They consume less energy than conventional ovens and cook food faster, reducing overall electricity usage."
+  }
+]
